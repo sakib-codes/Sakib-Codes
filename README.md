@@ -69,11 +69,11 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakib-codes&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
