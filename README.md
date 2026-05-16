@@ -64,16 +64,16 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=%3CSakib360a%3E&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib360a&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakib-codes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib360a&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -81,9 +81,9 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sakib360a)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakib-codes)
 
 ---
 
 > 💬 *Let's build something amazing together!*  
-> ![Profile Views](https://komarev.com/ghpvc/?username=Sakib360a&color=blue&style=flat-square)
+> ![Profile Views](https://komarev.com/ghpvc/?username=sakib-codes&color=blue&style=flat-square)
