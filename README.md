@@ -66,14 +66,14 @@ Currently exploring the world of **cross-platform app development**, I'm always 
   <a href="https://git.io/streak-stats">
     <picture>
       <source 
-        srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=github-dark&hide_border=true"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=github-dark&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source 
-        srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=default&hide_border=true"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=default&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=default&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=default&hide_border=true" alt="GitHub Streak" />
     </picture>
   </a>
 </p>
@@ -81,28 +81,28 @@ Currently exploring the world of **cross-platform app development**, I'm always 
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true" alt="GitHub Stats" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true" alt="Top Languages" />
   </picture>
 </p>
 
