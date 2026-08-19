@@ -66,14 +66,14 @@ Currently exploring the world of **cross-platform app development**, I'm always 
   <a href="https://git.io/streak-stats">
     <picture>
       <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=github-dark&hide_border=true"
+        srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=github-dark&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=default&hide_border=true"
+        srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=default&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-codes&theme=default&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sakib-codes&theme=default&hide_border=true" alt="GitHub Streak" />
     </picture>
   </a>
 </p>
