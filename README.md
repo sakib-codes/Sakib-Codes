@@ -121,6 +121,7 @@ I'm a huge advocate for **self-learning**, finding the process of teaching mysel
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sakibcodes.com-00599C?style=for-the-badge)](https://www.sakibcodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakib-codes)
 
