@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00599C&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abu+Bakkar+Siddique+Sakib+👋;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </picture>
 </div>
 
 <p align="center">
@@ -34,16 +38,20 @@ I'm a passionate Computer Science and Engineering student at **Dhaka City Colleg
 <div align="center">
   
 **Languages & Frameworks**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python&theme=dark" alt="Languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python&theme=light" alt="Languages" />
+</picture>
 
 <br><br>
 
 **Tools, Platforms & DevOps**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,vscode,github,firebase&theme=dark" alt="DevOps and Tools" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,vscode,github,firebase&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,vscode,github,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,vscode,github,firebase&theme=light" alt="DevOps and Tools" />
+</picture>
 
 </div>
 
@@ -51,20 +59,35 @@ I'm a passionate Computer Science and Engineering student at **Dhaka City Colleg
 
 ## 🔥 Top Projects
 
-<!-- NOTE: Replace the repository names below with your actual repository names -->
 <div align="center">
-  <a href="https://github.com/sakib-codes/your-todo-repo">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-todo-repo&theme=radical" alt="ToDo App" />
+  <a href="https://github.com/sakib-codes/Ecommerce-App">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=Ecommerce-App&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=Ecommerce-App&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=Ecommerce-App&theme=default&hide_border=true" alt="Ecommerce App" />
+    </picture>
   </a>
-  <a href="https://github.com/sakib-codes/your-travel-repo">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-travel-repo&theme=radical" alt="Travel App" />
+  <a href="https://github.com/sakib-codes/todo_app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=todo_app&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=todo_app&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=todo_app&theme=default&hide_border=true" alt="Todo App" />
+    </picture>
   </a>
   <br>
-  <a href="https://github.com/sakib-codes/your-ecommerce-repo">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-ecommerce-repo&theme=radical" alt="E-commerce App" />
+  <a href="https://github.com/sakib-codes/task_manager">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=task_manager&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=task_manager&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=task_manager&theme=default&hide_border=true" alt="Task Manager" />
+    </picture>
   </a>
-  <a href="https://github.com/sakib-codes/your-medico-repo">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-medico-repo&theme=radical" alt="Medico App" />
+  <a href="https://github.com/sakib-codes/firebase_live_score_app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=firebase_live_score_app&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=firebase_live_score_app&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=firebase_live_score_app&theme=default&hide_border=true" alt="Live Score App" />
+    </picture>
   </a>
 </div>
 
@@ -76,11 +99,11 @@ I'm a passionate Computer Science and Engineering student at **Dhaka City Colleg
 
 | 🏆 GitHub Trophies | 📈 Contribution Graph |
 | :---: | :---: |
-| <img src="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="400"/> | <img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=radical&hide_border=true" width="400"/> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=flat&no-frame=true&no-bg=true&margin-w=15" /><img src="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=flat&no-frame=true&no-bg=true&margin-w=15" width="400" alt="Trophies"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=github-dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" /><img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" width="400" alt="Streak"/></picture> |
 
 | 📊 Top Languages | 🚀 Overall Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=radical&hide_border=true" width="400"/> | <img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=radical&hide_border=true" width="400"/> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=github_dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" width="400" alt="Languages"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=github_dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" /><img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" width="400" alt="Overall Stats"/></picture> |
 
 </div>
 
