@@ -1,131 +1,95 @@
-# 👋 Hi there, I'm Abu Bakkar Siddique Sakib  
-🎯 Student | 💻 Programmer | 📱 Flutter Developer | ☁️ DevOps Enthusiast | Dhaka, Bangladesh
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00599C&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abu+Bakkar+Siddique+Sakib+👋;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.sakibcodes.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sakibcodes.com-00599C?style=for-the-badge&logo=Web" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abubakkarsakib360@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-abubakkarsakib360@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate Computer Science and Engineering student at **Dhaka City College** who loves to **explore, reason, solve, and build**. While I have a strong foundation in building efficient and beautiful mobile applications using **Flutter** and **Dart**, my interests span broadly across the tech stack.
+I'm a passionate Computer Science and Engineering student at **Dhaka City College** who loves to explore, reason, solve, and build.
 
-Recently, I've developed a strong interest in **Networking, Databases, DevOps, and CI/CD**. In a previous DevOps role, I gained hands-on experience designing and maintaining CI/CD pipelines, and expanded my knowledge of modern infrastructure tools like **Docker, Kubernetes, Nginx, Azure DevOps**, and cloud platforms like **AWS**. 
+- 📱 **Mobile Dev:** Building efficient and beautiful apps using **Flutter** and **Dart**.
+- ☁️ **DevOps & Infrastructure:** Hands-on experience with **Docker, Kubernetes, Nginx, Azure DevOps**, and cloud platforms like **AWS**.
+- 🐧 **Linux Enthusiast:** I daily-drive **Fedora** and love diving into the terminal to understand how things tick under the hood!
+- 📚 **Lifelong Learner:** A huge advocate for self-learning, constantly exploring networking, databases, and clean architecture.
 
-Whether it's crafting an elegant mobile UI or configuring scalable cloud infrastructure, I'm always curious to learn and excited to bring ideas to life!
-
-📧 Email: abubakkarsakib360@gmail.com  
-📍 Location: Ibrahimpur, Kafrul, Dhaka, Bangladesh
-
----
-
-## 💡 What Drives Me
-
-> "I believe in turning ideas into impactful solutions, whether through interactive apps or robust backend architectures."  
-
-My motivation is driven by curiosity—I love diving deep into problems, reasoning through complexities, and building systems that make life easier and more connected. 
-
-I'm a huge advocate for **self-learning**, finding the process of teaching myself new concepts incredibly fun and rewarding. Right now, I'm thoroughly enjoying the experience of operating and learning **Linux**—specifically diving into **Fedora**. There is just something special about exploring the terminal and understanding how operating systems tick under the hood!
-
----
-
-## 🔥 What I'm Working On
-
-- ✅ **ToDo List App** – Track daily tasks with an intuitive Flutter interface  
-- 🌍 **Travel App** – Plan and book tour packages easily on mobile  
-- 🛒 **E-Commerce App** – Seamless online shopping experience  
-- 🩺 **Medico App** – Telemedicine app for doctor consultation & appointments  
-- ☁️ **DevOps & CI/CD** – Exploring and setting up robust pipelines and cloud infrastructure
-
----
-
-## 📚 Currently Learning & Exploring
-
-- 🧠 **Data Structures & Algorithms (DSA)** – Enhancing problem-solving skills
-- 🐧 **Linux & Operating Systems** – Daily driving and experimenting with **Fedora Linux**
-- 🐳 **DevOps Ecosystem** – Deepening knowledge in Docker, Kubernetes, Nginx, AWS, and Azure DevOps
-- 🌐 **Backend & Databases** – Exploring database management and networking concepts
-- 📱 Mastering **Flutter & Dart** and exploring **Clean Architecture**
+> *"I believe in turning ideas into impactful solutions, whether through interactive apps or robust backend architectures."*
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🧑‍💻 Languages & Frameworks
+<div align="center">
+  
+**Languages & Frameworks**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python&theme=dark" alt="Languages" />
+</a>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br><br>
 
-### 🔧 Tools, Platforms & DevOps
+**Tools, Platforms & DevOps**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,vscode,github,firebase&theme=dark" alt="DevOps and Tools" />
+</a>
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+</div>
+
+---
+
+## 🔥 Top Projects
+
+<!-- NOTE: Replace the repository names below with your actual repository names -->
+<div align="center">
+  <a href="https://github.com/sakib-codes/your-todo-repo">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-todo-repo&theme=radical" alt="ToDo App" />
+  </a>
+  <a href="https://github.com/sakib-codes/your-travel-repo">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-travel-repo&theme=radical" alt="Travel App" />
+  </a>
+  <br>
+  <a href="https://github.com/sakib-codes/your-ecommerce-repo">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-ecommerce-repo&theme=radical" alt="E-commerce App" />
+  </a>
+  <a href="https://github.com/sakib-codes/your-medico-repo">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sakib-codes&repo=your-medico-repo&theme=radical" alt="Medico App" />
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source 
-        srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=github-dark&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source 
-        srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" alt="GitHub Streak" />
-    </picture>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=586069&hide_border=true" alt="GitHub Stats" />
-  </picture>
-</p>
+| 🏆 GitHub Trophies | 📈 Contribution Graph |
+| :---: | :---: |
+| <img src="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="400"/> | <img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=radical&hide_border=true" width="400"/> |
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&bg_color=ffffff&title_color=0366d6&text_color=24292e&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
+| 📊 Top Languages | 🚀 Overall Stats |
+| :---: | :---: |
+| <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=radical&hide_border=true" width="400"/> | <img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=radical&hide_border=true" width="400"/> |
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sakibcodes.com-00599C?style=for-the-badge)](https://www.sakibcodes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abu-bakkar-siddique-sakib-374a38251/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakib-codes)
+> 💬 *Let's build something amazing together!*
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=sakib-codes&color=blue&style=flat-square)
 
-> 💬 *Let's build something amazing together!*  
-> ![Profile Views](https://komarev.com/ghpvc/?username=sakib-codes&color=blue&style=flat-square)
+</div>
