@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=800&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=800&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </picture>
 </div>
 
