@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Abu+Bakkar+Siddique+Sakib;Student+%7C+Programmer+%7C+Flutter+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -96,15 +96,25 @@ I'm a passionate Computer Science and Engineering student at **Dhaka City Colleg
 ## 📊 GitHub Stats
 
 <div align="center">
-
-| 🏆 GitHub Trophies | 📈 Contribution Graph |
-| :---: | :---: |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=flat&no-frame=true&no-bg=true&margin-w=15" /><img src="https://github-profile-trophy.vercel.app/?username=sakib-codes&theme=flat&no-frame=true&no-bg=true&margin-w=15" width="400" alt="Trophies"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=github-dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" /><img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" width="400" alt="Streak"/></picture> |
-
-| 📊 Top Languages | 🚀 Overall Stats |
-| :---: | :---: |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=github_dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" width="400" alt="Languages"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=github_dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" /><img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" width="400" alt="Overall Stats"/></picture> |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=sakib-codes&theme=default&hide_border=true" alt="Streak" />
+  </picture>
+</div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakib-codes&layout=compact&theme=default&hide_border=true" alt="Languages" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=sakib-codes&show_icons=true&theme=default&hide_border=true" alt="Overall Stats" />
+  </picture>
 </div>
 
 ---
